@@ -1453,7 +1453,23 @@ margin-bottom: 8px;
 .social-icon ul li a:hover {
 	background: #254688;
 } 
-
+.click-up a span {
+    background: #21a7d0;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 54px;
+    right: 5px;
+    right: 0;
+    color: #fff;
+    z-index: 1000;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+    /* animation: animat 1.5s linear infinite; */
+    padding-top: 0px;
+}
 
 
 
