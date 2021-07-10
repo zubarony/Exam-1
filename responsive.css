@@ -1099,10 +1099,7 @@
     .header_logo {
         width: 100%;
     }
-    .header-menu {
-        width: 0%;
-        text-align: center;
-    }
+    
 }
 @media(max-width:372px){
     .header-menu {
